@@ -21,6 +21,37 @@ paginate = 10
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
 
+  [params.social]
+    # Link your social networking accounts to the side menu
+    # by entering your username or ID.
+    twitter="*"
+    # gnusocial="*"
+    facebook="*"
+    # weibo="*"
+    # tumblr="*"
+    instagram="*"
+    # flickr="*"
+    # photo500px="*"
+    # pinterest="*"
+    # youtube="*"
+    # vimeo="*"
+    # vine="*"
+    # slideshare="*"
+    linkedin="*"
+    # xing="*"
+    # reddit="*"
+    # hackernews="*"
+    github="yoshiharuyamashita"
+    # gitlab="*"
+    # bitbucket="*"
+    stackoverflow="*"
+    # serverfault="*"
+    # steam="*"
+    # mobygames="*"
+    # lastfm="*"
+    # discogs="*"
+    # keybase="*"
+
 [menu]
   # Shown in the side menu.
   [[menu.main]]
@@ -46,34 +77,3 @@ paginate = 10
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 4
     url = "/contact/"
-
-[social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  twitter="*"
-  # gnusocial="*"
-  facebook="*"
-  # weibo="*"
-  # tumblr="*"
-  instagram="*"
-  # flickr="*"
-  # photo500px="*"
-  # pinterest="*"
-  # youtube="*"
-  # vimeo="*"
-  # vine="*"
-  # slideshare="*"
-  linkedin="*"
-  # xing="*"
-  # reddit="*"
-  # hackernews="*"
-  github="yoshiharuyamashita"
-  # gitlab="*"
-  # bitbucket="*"
-  stackoverflow="*"
-  # serverfault="*"
-  # steam="*"
-  # mobygames="*"
-  # lastfm="*"
-  # discogs="*"
-  # keybase="*"
